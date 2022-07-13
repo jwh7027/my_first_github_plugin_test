@@ -2,4 +2,6 @@
 
 int main() {
 	std::cout << "Hello World!\n";
+
+	std::cout << "This lecture is good\n" << std::endl;
 }
